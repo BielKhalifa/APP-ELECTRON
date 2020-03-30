@@ -1,0 +1,21 @@
+body{
+  background: #000;
+ }
+ 
+ .button {
+   background-color: #e02041;
+   width: 180px;
+   height: 50px;
+   border: none;
+   border-radius: 30px;
+   color: aliceblue;
+   font-weight: bold;
+   font-size: 13px;
+ }
+ 
+ h1 {
+   color: antiquewhite;
+   font-size: 15;
+   font-weight: 700;
+   margin-bottom: 30px;
+ }
